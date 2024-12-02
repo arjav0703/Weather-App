@@ -1,7 +1,7 @@
 # Weather App - README
 
 This is a simple weather application built using **HTML**, **CSS**, and **JavaScript**, which fetches weather data from the **OpenWeather API**. The app allows users to check the current weather for a specified city, including details like temperature, humidity, weather condition, and more.
-
+[![Click to visit webpage](https://cloud-42lcqxe5q-hack-club-bot.vercel.app/0image.png)](https://arjav0703.github.io/Weather-App/)
 ## Features
 - Get the current weather for any city.
 - Responsive design suitable for mobile and desktop screens.
